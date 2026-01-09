@@ -26,7 +26,7 @@ As you might expect, I graduated highschool knowing _exactly_ what degree I want
 Wisconsin Stout got me a degree in Computer Science with a concentration in Mobile Applications as well as two internships, one of which landed me
 my current full time job.
 
-That pretty much brings us to the present day. I've been working for my current company, Jamf, for the past 3 years full time and have been doing
+That pretty much brings us to the present day. I've been working for my current company, Jamf, since 2020 and have been doing
 my best to absorb all the information and experience I can.
 
 Over the 10+ years I've been learning about this field, I've read probably thousands of blog and forum posts, tutorials, and pages of
